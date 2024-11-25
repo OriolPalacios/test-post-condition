@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oriol Fernando Palacios Durand",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@stacks/connect": "^6.0.0",
+    "@stacks/network": "^6.0.0",
+    "@stacks/transactions": "^6.0.0",
+    "@stacks/wallet-sdk": "^6.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
